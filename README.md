@@ -1,5 +1,4 @@
-## Leonardo Gomes | Programador com foco Full-Stack
-
+## Leonardo Gomes | Programador
 
 <div style="display: flex; flex-direction: row; gap: 8px; align-items: center;">
   <img alt="JS" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
